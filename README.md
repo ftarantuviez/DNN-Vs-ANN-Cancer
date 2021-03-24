@@ -1,2 +1,2 @@
 # DNN-Vs-ANN-Cancer
-[link to application](https://dnn-vs-ann-cancer.herokuapp.com/)
+[Link to application](https://tarantuviez-9.herokuapp.com/)
